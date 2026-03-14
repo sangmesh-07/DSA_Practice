@@ -28,7 +28,7 @@ public class AddElement {
 
     public static void main(String[] args) {
         int[] arr = {1, 2, 4, 5};
-        int pos = 2, x = 3;
+        int pos = 5, x = 3;
 
         arr = Solution.insertAtPosition(arr, pos, x);
 
