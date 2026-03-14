@@ -1,4 +1,6 @@
+
 class Solution {
+
     // Function to insert at a given position (0-based index)
     public static int[] insertAtPosition(int[] arr, int pos, int x) {
         // Create new array of +1 size
@@ -23,6 +25,7 @@ class Solution {
 
 // Driver class
 public class AddElement {
+
     public static void main(String[] args) {
         int[] arr = {1, 2, 4, 5};
         int pos = 2, x = 3;
